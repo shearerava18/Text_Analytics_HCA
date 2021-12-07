@@ -1,5 +1,5 @@
 # Text_Analytics_HCA
-* Due to sensitive nature of data used for this project, I used dummy data and hid certain dataframes. *
+* * Due to sensitive nature of data used for this project, I used dummy data and hid certain dataframes. *
 
 Unstructured data analysis of employee free response survey question. 
 
